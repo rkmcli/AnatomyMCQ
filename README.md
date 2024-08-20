@@ -1,2 +1,0 @@
-# AnatomyMCQ
-Chatgpt anatomy chatbot

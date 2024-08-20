@@ -22,11 +22,12 @@ We do not share any personal information with third parties, as we do not collec
 
 4. Third-Party Services
 
-Anatomy MCQ Chatbot uses the Openverse API to enhance the user experience by providing access to openly licensed content. Please be aware that:
+Anatomy MCQ Chatbot uses the Openverse API and the Open-i API to enhance the user experience by providing access to openly licensed content. Please be aware that:
 
-Openverse aggregates metadata about openly licensed content hosted on websites managed by third parties. Openverse does not own or control the content or data made available through its API and does not verify its licensing status.
-Users are responsible for independently verifying whether they have the right to use the content and data accessed through Openverse and must adhere to the terms and conditions applicable to such content, including providing proper attribution to CC-licensed works.
-The use of the Openverse API is subject to Openverse's terms of service, which you can review in detail here. By using Anatomy MCQ Chatbot, you acknowledge that you have read, understood, and agreed to be bound by these terms.
+Openverse and Open-i aggregates metadata about openly licensed content hosted on websites managed by third parties. Openverse and Open-i does not own or control the content or data made available through its API and does not verify its licensing status.
+Users are responsible for independently verifying whether they have the right to use the content and data accessed through Openverse and Open-i, and must adhere to the terms and conditions applicable to such content, including providing proper attribution to CC-licensed works.
+The use of the Openverse API and Open-i API is subject to Openverse's and Open-i's terms of service, which you can review in detail here. By using Anatomy MCQ Chatbot, you acknowledge that you have read, understood, and agreed to be bound by these terms.
+
 5. Security Measures
 
 As we do not ask for or collect any personal information, there are no specific security measures required to protect personal data. However, we are committed to maintaining a secure platform to ensure a safe and reliable user experience.
@@ -44,7 +45,6 @@ Anatomy MCQ Chatbot does not currently fall under specific privacy regulations s
 If you have any questions or concerns about this Privacy Policy or your privacy when using Anatomy MCQ Chatbot, you can contact us at:
 
 Case Western Reserve University School of Medicine
-[Insert Contact Email/Phone]
 
 Changes to This Privacy Policy
 
